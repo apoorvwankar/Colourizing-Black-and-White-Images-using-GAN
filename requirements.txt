@@ -1,4 +1,4 @@
-h5py==2.9.0
+h5py==3.8.0              # Compatible with Python 3.9+
 imagesize==1.1.0
 importlib-metadata==6.3.0
 numpy==1.21.6
